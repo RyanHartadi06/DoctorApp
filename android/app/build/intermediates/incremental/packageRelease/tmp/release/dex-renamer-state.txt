@@ -1,0 +1,4 @@
+#Thu May 21 11:19:27 WIB 2020
+base.0=/Users/prawito/Documents/Youtube Channel/Kelas Online/ReactNative/Code/DoctorApp/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
